@@ -1,0 +1,17 @@
+﻿  PhoneBook.cpp
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(55,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(158,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(163,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(181,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(209,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(214,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(231,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(257,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(305,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(330,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(378,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(513,46): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(669,61): warning C4129: C: неизвестная escape-последовательность
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(723,75): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\PhoneBook\PhoneBook\PhoneBook.cpp(865,75): warning C4018: <: несоответствие типов со знаком и без знака
+  PhoneBook.vcxproj -> C:\Users\f-abd\source\repos\PhoneBook\Debug\PhoneBook.exe
